@@ -1,0 +1,14 @@
+developer.servicenow.com
+
+
+instance
+
+snowyk
+
+
+business rule
+
+under manage>mgeinstane 
+
+
+under Training also i can get some docmentation
